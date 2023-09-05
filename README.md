@@ -21,13 +21,13 @@ To run the game, you'll need a C compiler installed on your system. Follow these
    git clone https://github.com/Srivatsajbhat/Crossword_puzzle_C.git
    ```
 2. Compile the code using your C compiler (e.g., GCC):
-```
+   ```
    gcc crossword.c -o crossword
-```
+   ```
 3. Run the compiled executable:
-```
+   ```
    ./crossword
-```
+   ```
 4. Follow the on-screen instructions to play the game.
 
 ## Gameplay
